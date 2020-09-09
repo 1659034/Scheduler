@@ -1,0 +1,35 @@
+{
+  "name": "schedule",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "lodash": "4.17.11",
+    "mobx": "5.9.4",
+    "mobx-react-lite": "1.3.0",
+    "moment": "2.24.0",
+    "moment-timezone": "0.5.25",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-intersection-observer": "8.23.0",
+    "react-pose": "4.0.8",
+    "react-scripts": "2.1.8",
+    "styled-components": "4.2.0"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
